@@ -75,7 +75,7 @@ async function compare(str) {
 
     let x = random_choice();
     let s = document.getElementById('gamestart');
-    document.getElementById('gamestart').innerHTML = str + "\u00A0 \u00A0 \u00A0 VS \u00A0 \u00A0 \u00A0" + x
+    document.getElementById('gamestart').innerHTML = str + "\u00A0 VS \u00A0" + x
     await new Promise(r => setTimeout(r, 2000));
     if (str.toString() === "Rock") {
         if (x.toString() === "Scissor") {
