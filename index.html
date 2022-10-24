@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body-webkit-text-size-adjust: none;>
+
+    <div class="night">
+        <div class="nightmode"></div>
+        <input type="image" id="night" src="assets/nightmode.png" height="30px" width="30px" onclick="night_toggle()" />
+        <input type="image" id="sun" src="assets/sun.png" height="30px" width="30px" onclick="night_toggle()" />
+    </div>
+    <div id="counter">
+        User: <span id="user"></span> <br>
+        CPU: <span id="cpu"></span </div> <br>
+            <button id="reset_score" onclick="reset_score()">Reset Score</button>
+    </div>
+    <div class="heading" id="heading">
+        Rock Paper Scissors Game
+    </div>
+
+    <div class="game">
+        <div class="rock" id="rock">
+            <input type="image" id="rock_disable" src="assets/rock.png" height="100px" width="100px" onclick="rock()" />
+        </div>
+        <div class="paper" id="paper">
+            <input type="image" id="paper_disable" src="assets/paper.png" height="100px" width="100px" onclick="paper()" />
+        </div>
+        <div class="scissor" id="scissor">
+            <input type="image" id="scissor_disable" src="assets/scissor.png" height="100px" width="100px" onclick="scissor()" />
+        </div>
+    </div>
+    <div id="gamestart" class="gamestart">
+    </div>
+
+
+
+
+</body>
+<script src="script.js"></script>
+
+</html>
