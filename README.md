@@ -108,7 +108,7 @@ The user can also reset the score at any point to 0-0 and start a fresh match.
 
 Shubham Singh - [LinkedIn](https://www.linkedin.com/in/shubham-singh-519769220/) 
 
-Project Link: [Rock Paper Scissors](https://github.com/LiQuiD-404/Rock-Paper-Scissors-Game)
+Project Link: [Rock Paper Scissors](https://liquid-404.github.io/Rock-Paper-Scissors-Game/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
