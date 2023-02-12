@@ -46,7 +46,7 @@
 ## About The Project
 
 
-We have all played Rock, Paper, Scissors with our friends and siblings in our childhood, may it be for choosing who will bat first in a cricket match or to check who will tidy up the room. Rock Paper Scissors was one game we all loved to play. Now with the help of JavaScript we can play the same Rock, Paper, Scissors with our computer.
+"Rock, Paper, Scissors" is a classic game now available in a modern, digital form! This version of the game is built using HTML, CSS, and JavaScript, making it fast, interactive, and easy to play. With a simple, user-friendly interface, you can challenge the computer to a game of strategy and luck. Choose from rock, paper, or scissors, and watch as your choice is matched against your opponent's. Whether you're a seasoned veteran or a newcomer to the game, "Rock, Paper, Scissors" is sure to provide hours of fun and excitement. So why wait? Try your luck and test your skills today with "Rock, Paper, Scissors"!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
